@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
   branch: master
+  repo: comerc/gatsby-starter-netlify-cms-3
 
 media_folder: static/img
 public_folder: /img
